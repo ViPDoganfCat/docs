@@ -121,3 +121,4 @@ You bear the sole risk of using the pre-release software.
 ## 15. Nature of Terms for Microsoft Customers.
 
   If you license GitHub through Microsoft and your agreement with Microsoft does not already provide for the inclusion of these terms, these terms shall be considered an amendment to the Microsoft Product Terms for GitHub Offerings for the duration of your use of the pre-release software.
+ 
